@@ -1,0 +1,31 @@
+
+{
+  "Category": {
+    "01": {
+      "Name": "FINGER FOODS",
+      "Image": "http://medifoods.my/wp-content/uploads/2015/03/cover-menu-fingerfoods2.jpg"
+    },
+    "02": {
+      "Name": "WESTERN SOUPS",
+      "Image": "http://medifoods.my/wp-content/uploads/2015/03/cover-menu-westernsoup1.jpg"
+    }
+  },
+  "User" : {
+    "0988123344" : {
+    "Name" : "Eddydn",
+    "Password" : "1234"
+  },
+  "0988123355" : {
+    "Name" : "EddyLEe",
+    "Password" : "1234"
+  },
+  "0988123388" : {
+    "Name" : "Tom Cruise"
+    "Password" : "1234"
+  },
+  "07040951005" : {
+    "Name" : "崔　春陽"
+    "Password" : "1234"
+  }
+ }
+}
